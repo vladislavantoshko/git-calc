@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.546,=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2022.03.03 11:01:04.412,=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>2022.03.03 11:01:04.521,=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2022.03.03 11:01:23.472,C:\Users\Vladislav\Desktop\repo\EmptyProject\Unit6.cpp=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2022.03.03 11:01:23.472,C:\Users\Vladislav\Desktop\repo\EmptyProject\Unit6.dfm=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022.03.03 11:01:23.472,C:\Users\Vladislav\Desktop\repo\EmptyProject\Unit6.h=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Unit6.h</Transaction>
+    <Transaction>2022.03.03 11:01:25.045,C:\Users\Vladislav\Desktop\repo\EmptyProject\Project6PCH1.h=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>2022.03.03 11:01:26.937,C:\Users\Vladislav\Desktop\repo\EmptyProject\Project6.cbproj=C:\Users\Vladislav\Documents\Embarcadero\Studio\Projects\Project6.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
